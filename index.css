@@ -337,11 +337,11 @@ img {
         font-size: 25px;
     }
 
-   
+
 
     li {
         font-size: 14px;
-        
+
     }
 
     .clg {
@@ -371,20 +371,29 @@ img {
         font-weight: bold;
 
     }
-.sigma {display: none;}
+
+    .sigma {
+        display: none;
+    }
+
     img {
         position: relative;
 
         margin: 5px;
     }
+
     .link {
         font-size: 14px;
     }
-    .list{ font-size: 12px;
-    font-weight: bold;}
+
+    .list {
+        font-size: 12px;
+        font-weight: bold;
+    }
+
     .tag {
-        
-        margin-left:20px;
+
+        margin-left: 20px;
         height: 15vh;
         margin-top: 10px;
     }
