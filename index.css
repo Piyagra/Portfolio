@@ -154,6 +154,11 @@ a {
     font-size: 20px;
 }
 
+.clg {
+    list-style: none;
+    padding-left: 30px;
+}
+
 h1 {
     color: white;
     font-size: 40px;
@@ -175,11 +180,13 @@ h1 {
 
 .link {
     font-size: 20px;
+    color: rgb(88, 88, 237);
+    cursor: pointer;
 }
 
 .container3 {
     margin-top: 50px;
-    height: 145vh;
+    height: 150vh;
     color: white;
 }
 
@@ -213,7 +220,7 @@ img {
 .footer {
     /* height: 50vh; */
     color: #a1c5ba;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .email {
@@ -334,6 +341,14 @@ img {
         font-size: 16px;
     }
 
+    li {
+        font-size: 14px;
+    }
+
+    .clg {
+        padding-left: 18px;
+    }
+
     .container3 {
         display: block;
         margin-top: 20px;
@@ -352,10 +367,12 @@ img {
 
     .figma {
         text-align: center;
-        color: #2bbd91;display: block;
+        color: #2bbd91;
+        display: block;
         font-weight: bold;
-    }
 
+    }
+.sigma {display: none;}
     img {
         position: relative;
 
