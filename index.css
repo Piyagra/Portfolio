@@ -337,13 +337,11 @@ img {
         font-size: 25px;
     }
 
-    .link {
-        font-size: 14px;
-    }
+   
 
     li {
-        font-size: 12px;
-        font-weight: bold;
+        font-size: 14px;
+        
     }
 
     .clg {
@@ -379,7 +377,11 @@ img {
 
         margin: 5px;
     }
-
+    .link {
+        font-size: 14px;
+    }
+    .list{ font-size: 12px;
+    font-weight: bold;}
     .tag {
         
         margin-left:20px;
