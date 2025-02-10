@@ -338,11 +338,12 @@ img {
     }
 
     .link {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     li {
-        font-size: 14px;
+        font-size: 12px;
+        font-weight: bold;
     }
 
     .clg {
@@ -380,7 +381,8 @@ img {
     }
 
     .tag {
-        margin-left: 20px;
+        
+        margin-left:20px;
         height: 15vh;
         margin-top: 10px;
     }
