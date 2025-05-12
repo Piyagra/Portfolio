@@ -376,11 +376,11 @@ img {
         display: none;
     }
 
-    img {
-        position: relative;
-
+    /* img {
+        /* position: relative; 
+margin-left: 10px;
         margin: 5px;
-    }
+    } */
 
     .link {
         font-size: 14px;
